@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  sePath: '/test',
+  basePath: '/test',
   output: 'standalone',
 };
 
