@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "standalone",
+  sePath: '/test',
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
